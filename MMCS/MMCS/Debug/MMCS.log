@@ -1,0 +1,3 @@
+﻿  MMCS.cpp
+d:\c++_console_projects\mmcs\mmcs\mmcs.cpp(247): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MMCS.vcxproj -> D:\C++_Console_Projects\MMCS\Debug\MMCS.exe
